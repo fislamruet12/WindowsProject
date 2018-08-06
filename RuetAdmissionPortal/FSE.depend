@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1471156623 source:c:\users\farid\desktop\fse\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1471278694 c:\users\farid\desktop\fse\resource.h
+
+1471156881 source:c:\users\farid\desktop\fse\main.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1469982640 source:c:\users\farid\desktop\fse\combobox.cpp
+
+1470319769 source:c:\users\farid\desktop\fse\dialogbox1.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471280020 source:c:\users\farid\desktop\fse\dialogbox2.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471156675 source:c:\users\farid\desktop\fse\dialogbox3.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470295348 source:c:\users\farid\desktop\fse\dialogbox_lock.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470296161 source:c:\users\farid\desktop\fse\a_choice.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471280542 source:c:\users\farid\desktop\fse\subject_choice.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470295929 source:c:\users\farid\desktop\fse\calculateseries.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1469982759 source:c:\users\farid\desktop\fse\combobox1.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<SQLAPI.h>
+	<string>
+	<sstream>
+
+1470015379 source:c:\users\farid\desktop\fse\combobox2.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<SQLAPI.h>
+	<string>
+	<sstream>
+
+1471279433 source:c:\users\farid\desktop\fse\allthing.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<SQLAPI.h>
+	<string>
+	<sstream>
+
+1470736646 source:c:\users\farid\desktop\fse\mainstudent.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471156071 source:c:\users\farid\desktop\fse\mrakrsentry.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470564245 source:c:\users\farid\desktop\fse\merit.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470562156 source:c:\users\farid\desktop\fse\admissioncancel.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470296161 source:c:\users\farid\desktop\all c++ project\fse\a_choice.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475634754 c:\users\farid\desktop\all c++ project\fse\resource.h
+
+1470562156 source:c:\users\farid\desktop\all c++ project\fse\admissioncancel.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475635342 source:c:\users\farid\desktop\all c++ project\fse\allthing.cpp
+	<tchar.h>
+	<windows.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<SQLAPI.h>
+	<string>
+	<sstream>
+
+1470295929 source:c:\users\farid\desktop\all c++ project\fse\calculateseries.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470319769 source:c:\users\farid\desktop\all c++ project\fse\dialogbox1.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475570704 source:c:\users\farid\desktop\all c++ project\fse\dialogbox2.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471156675 source:c:\users\farid\desktop\all c++ project\fse\dialogbox3.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470295348 source:c:\users\farid\desktop\all c++ project\fse\dialogbox_lock.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475635387 source:c:\users\farid\desktop\all c++ project\fse\main.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475488103 source:c:\users\farid\desktop\all c++ project\fse\mainstudent.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1470564245 source:c:\users\farid\desktop\all c++ project\fse\merit.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1472442241 source:c:\users\farid\desktop\all c++ project\fse\mrakrsentry.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475634846 source:c:\users\farid\desktop\all c++ project\fse\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1475635476 source:c:\users\farid\desktop\all c++ project\fse\subject_choice.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1471978383 source:c:\users\farid\desktop\all c++ project\fse\archi.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
+1475634081 source:c:\users\farid\desktop\all c++ project\fse\login.cpp
+	<windows.h>
+	<tchar.h>
+	<bits/stdc++.h>
+	<commctrl.h>
+	<tchar.h>
+	"resource.h"
+	<string>
+	<SQLAPI.h>
+
